@@ -77,5 +77,6 @@ Para rodar a suíte de testes unitários e validar o comportamento do sistema e 
 python -m pytest -v
 ```
 
-### 📑 Licença
-Este projeto está sob a licença **MIT**. Para mais detalhes, acesse o arquivo LICENSE.
+## 📑 Licença
+
+Este projeto está sob a licença **MIT**. Para mais detalhes, acesse o arquivo [LICENSE](https://github.com/isa-amorim/cotador-financeiro/blob/main/LICENSE).
